@@ -13,5 +13,6 @@ namespace TestAPP
     /// </summary>
     public partial class App : Application
     {
+MessageBox.Show("Test");
     }
 }
